@@ -17,7 +17,7 @@ fi
 
 
 
-curl -sS curl -sS https://raw.githubusercontent.com/geovpn/perizinan/main/ascii-home
+curl -sS curl -sS https://raw.githubusercontent.com/halluboys/perizinan/main/ascii-home
 echo "Dependencies"
 echo "Progress..."
 sleep 2
